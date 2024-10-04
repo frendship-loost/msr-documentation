@@ -1,0 +1,65 @@
+site_name: Master Sword Rebirth - Documentation Project
+site_description: Your one-stop-shop for MSR info!
+site_url: https://frendship-loost.github.io/
+theme:
+  name: material
+  icon:
+    logo: fontawesome/solid/scale-balanced
+  favicon: assets/MSR.ico
+  palette:
+
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      primary: amber
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      primary: amber
+      scheme: default 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      primary: amber
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+
+extra:
+  social:
+    - icon: simple/discord
+      link: https://discord.com/invite/nwJB9EhAN6
+    - icon: simple/internetcomputer
+      link: https://msrebirth.net/
+    - icon: simple/github
+      link: https://github.com/MSRevive
+
+copyright: "Unlicense license, 2024, Master Sword: Rebirth Team"
