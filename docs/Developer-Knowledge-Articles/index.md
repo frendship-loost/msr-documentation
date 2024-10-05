@@ -92,6 +92,8 @@ This page should give you a general overview about developing for Master Sword: 
 
     Here you can find links to resources or programs that are used by other developers, with a short description.
 
+    * Don't forget to check the left-hand navigation menu for ALL recorded MS:C patch notes!
+
     [TWHL: Half-Life and Source Mapping Tutorials and Resources](https://twhl.info/index.php/wiki)
 
     [VALVe Developer Community](https://developer.valvesoftware.com/wiki/Main_Page)

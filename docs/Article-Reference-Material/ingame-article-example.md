@@ -1,13 +1,15 @@
-## Demon Claws
+# Demon Claws (EXAMPLE ONLY)
 
 !!! quote "In-Game Description says:"
     These infernal claws can inflict massive wounds.
 
 !!! info inline end ""
 
-    <p style="text-align: center;">![Image title](articleassets\itemsprites\Frame 119.png)</p>
+    <p style="text-align: center;">![Image title](articleassets/itemsprites/Frame 119.png)</p>
 
-    <p style="text-align: center;">**Stats**</p>
+    <p style="text-align: center;">**Demon Claws**</p>
+
+    <p style="text-align: center;">Stats</p>
 
     | Base Skill      | Martial Arts                          |
     | :---------- | :----------------------------------- |
@@ -31,12 +33,6 @@ Charging the Demon Claws to red will perform a Soul Drain. A Soul Drain consumes
 #### Speed Attack
 
 Though not nearly as potent as Soul Drain, Speed Attack can still manage to get some more damage in the enemy before you can re-charge your Soul Drain again. Costing 10 mana each swipe, Speed Attack will allow you to get four swipes in at your enemy in a second, also dealing magic damage, instead of the normal slash damage.
-
-### Locations
-
-* Skycastle artifact chest
-* The_Wall after turning in Ihotor's head
-* Phlames final chest
 
 ### Tips
 
