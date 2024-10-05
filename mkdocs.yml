@@ -19,14 +19,14 @@ theme:
 
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
-      primary: amber
+      primary: custom
       toggle:
         icon: material/brightness-auto
         name: Switch to light mode
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      primary: amber
+      primary: custom
       scheme: default 
       toggle:
         icon: material/brightness-7
@@ -34,7 +34,7 @@ theme:
 
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
-      primary: amber
+      primary: custom
       scheme: slate
       toggle:
         icon: material/brightness-4
@@ -64,6 +64,9 @@ markdown_extensions:
           case: lower
   - admonition
   - pymdownx.details
+
+extra_css:
+  - stylesheets/extra.css
 
 extra:
   social:
