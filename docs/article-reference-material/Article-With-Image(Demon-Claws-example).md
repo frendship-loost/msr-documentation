@@ -5,10 +5,7 @@
 
 !!! info inline end ""
 
-    <figure markdown="span">
-      ![Image title](\game-wiki-articles\articleassets\itemsprites\Frame 119.png){ width="300" }
-      <figcaption>**Demon Claws**</figcaption>
-    </figure>
+    <p style="text-align: center;">![Image title](articleassets\itemsprites\Frame 119.png)</p>
 
     <p style="text-align: center;">**Stats**</p>
 

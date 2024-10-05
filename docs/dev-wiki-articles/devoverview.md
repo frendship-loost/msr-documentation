@@ -34,21 +34,21 @@ This page should give you a general overview about developing for Master Sword: 
 
     It would just be all test levels without us!
 
-    * Mapping-Specific Tools & Links
+    ??? note "Mapping-Specific Tools & Links"
     
-    [MS:Rebirth Map sources repo.](https://github.com/MSRevive/map-sources)
+        [MS:Rebirth Map sources repo.](https://github.com/MSRevive/map-sources)
 
-    [J.A.C.K. : Modern, recommended editor for making maps in goldsrc.](https://jack.hlfx.ru/)
+        [J.A.C.K. : Modern, recommended editor for making maps in goldsrc.](https://jack.hlfx.ru/)
 
-    [TrenchBroom : Modern editor for adventurous map makers, more difficult to configure for MS:Rebirth.](https://trenchbroom.github.io/)
+        [TrenchBroom : Modern editor for adventurous map makers, more difficult to configure for MS:Rebirth.](https://trenchbroom.github.io/)
 
-    [VHLT: Vluzacn's ZHLT are still the most up-to-date and recommended map compiling tools for goldsrc.](https://twhl.info/wiki/embed/Vluzacn's_ZHLT_v34)
+        [VHLT: Vluzacn's ZHLT are still the most up-to-date and recommended map compiling tools for goldsrc.](https://twhl.info/wiki/embed/Vluzacn's_ZHLT_v34)
 
-    [HL-Texture-Tools: Recommended tool to work with goldsrc format .WAD and .SPR files.](https://github.com/yuraj11/HL-Texture-Tools)
+        [HL-Texture-Tools: Recommended tool to work with goldsrc format .WAD and .SPR files.](https://github.com/yuraj11/HL-Texture-Tools)
 
-    [Erty's Map2Prop for goldsrc. Turn your map objects into .mdl files!](https://twhl.info/vault/view/6772)
+        [Erty's Map2Prop for goldsrc. Turn your map objects into .mdl files!](https://twhl.info/vault/view/6772)
 
-    [Map2Curve: Space age tool that turns map sections into curved versions of themselves, based on many parameters.](http://gibshooter.com/map2curve/)
+        [Map2Curve: Space age tool that turns map sections into curved versions of themselves, based on many parameters.](http://gibshooter.com/map2curve/)
 
 
 
@@ -62,15 +62,15 @@ This page should give you a general overview about developing for Master Sword: 
 
     A sub section of modeling?
 
-    * Modeling-Specific Tools & Links
+    ??? note "Modeling-Specific Tools & Links"
 
-     [MS:Rebirth Assets repo](https://github.com/MSRevive/assets)
+        [MS:Rebirth Assets repo](https://github.com/MSRevive/assets)
 
-    [Blender: Free and open source 3D creation toolset, plus many other possibilities.](https://www.blender.org/)
+        [Blender: Free and open source 3D creation toolset, plus many other possibilities.](https://www.blender.org/)
 
-    [Blender Source Tools: Required addon if you are using Blender as a modeling software, to export .smd format.](https://developer.valvesoftware.com/wiki/Blender_Source_Tools)
+        [Blender Source Tools: Required addon if you are using Blender as a modeling software, to export .smd format.](https://developer.valvesoftware.com/wiki/Blender_Source_Tools)
 
-    [Crowbar: Decompile, compile, and view goldsrc + source models.](https://steamcommunity.com/groups/CrowbarTool)
+        [Crowbar: Decompile, compile, and view goldsrc + source models.](https://steamcommunity.com/groups/CrowbarTool)
 
 
 
