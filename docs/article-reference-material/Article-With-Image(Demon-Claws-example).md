@@ -5,7 +5,7 @@
 
 !!! info inline end ""
 
-    <p style="text-align: center;">![Image title](articleassets\itemsprites\Frame 119.png)</p>
+    <p style="text-align: center;">![Image title](articleassets/itemsprites/Frame 119.png)</p>
 
     <p style="text-align: center;">**Stats**</p>
 
